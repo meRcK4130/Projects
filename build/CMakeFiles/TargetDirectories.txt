@@ -1,0 +1,3 @@
+/Users/misha/Documents/GitHub/Projects/build/CMakeFiles/out.dir
+/Users/misha/Documents/GitHub/Projects/build/CMakeFiles/edit_cache.dir
+/Users/misha/Documents/GitHub/Projects/build/CMakeFiles/rebuild_cache.dir
