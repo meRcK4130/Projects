@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+*.dwp
+*.dbg
+# file system files
+.DS_Store
+._*
