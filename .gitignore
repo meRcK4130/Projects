@@ -44,3 +44,4 @@
 # file system files
 .DS_Store
 ._*
+/build/
