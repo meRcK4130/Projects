@@ -4,7 +4,7 @@
 #include <numbers>
 
 using namespace std;
-
+//
 // Обчислює значення функції для заданого x. №156
 long double f(long double x) {
     long double res = cos(20.0 / 54.0)
