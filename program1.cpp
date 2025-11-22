@@ -4,7 +4,7 @@
 #include <numbers>
 
 using namespace std;
-//
+
 // Обчислює значення функції для заданого x. №156
 long double f(long double x) {
     long double res = cos(20.0 / 54.0)
@@ -21,8 +21,8 @@ bool isInDomain(double x) {
 }
 
 int main() {
-    cout << "The author of this program is Mykhailo Lutsiv\n";
-    cout << "This program computes expression by entering x. Variant 156\n";
+    cout << "The author of this program is Mykhailo Lutsiv.\n";
+    cout << "This program computes expression by entering x. Variant 156.\n";
 
     double x;
     cout << "Enter x (x > 7, x != 12): ";
